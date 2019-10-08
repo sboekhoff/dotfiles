@@ -3,3 +3,21 @@
 My dotfiles.
 
 https://dotfiles.github.io/
+
+== Installation instructions
+
+* Clone this repository (I'd prefer `~/git/github/sboekhoff/dotfiles/`)
+
+=== .zshrc
+
+* Open the file `~/.zshrc` and add the following code as explained in the comments.
+
+
+[source,sh]
+----
+# Load aliases and functions from dotfiles repository.
+# Those lines should be added after (`source $ZSH/oh-my-zsh.sh`).
+# (Reason: aliases from `$ZSH/oh-my-zsh.sh` might otherwise override your aliases.)
+source ~/git/github/sboekhoff/dotfiles/config-zshrc/zshrc.sh
+----
+
