@@ -6,7 +6,8 @@ My dotfiles.
 
 == Installation instructions
 
-* Clone this repository (I'd prefer `~/git/github/sboekhoff/dotfiles/`)
+* Setup typical folders (`mkdir -p ~/git/github.com/ ~/git/gitlab.com/`)
+* Clone this repository (here I use `~/git/github.com/sboekhoff/dotfiles/`)
 
 === .zshrc
 

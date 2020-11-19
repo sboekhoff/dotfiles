@@ -1,8 +1,8 @@
 #!/bin/sh
 
 BASE_GIT=~/git
-BASE_GITLAB=~/git/gitlab
-BASE_GITHUB=~/git/github
+BASE_GITLAB=~/git/gitlab.com
+BASE_GITHUB=~/git/github.com
 
 # Aliases (folders)
 #===============================================================================
