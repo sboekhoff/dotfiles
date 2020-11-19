@@ -2,7 +2,7 @@
 
 My dotfiles.
 
-https://dotfiles.github.io/
+
 
 == Installation instructions
 
@@ -20,4 +20,11 @@ https://dotfiles.github.io/
 # (Reason: aliases from `$ZSH/oh-my-zsh.sh` might otherwise override your aliases.)
 source ~/git/github/sboekhoff/dotfiles/config-zshrc/zshrc.sh
 ----
+
+
+
+== Further reading
+
+* https://dotfiles.github.io/
+
 
