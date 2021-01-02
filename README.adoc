@@ -11,9 +11,8 @@ My dotfiles.
 
 === .zshrc
 
-* Open the file `~/.zshrc` and add the following code as explained in the comments.
-
-
+* Open the file `~/.zshrc` and add the following code as explained in the comments:
++
 [source,sh]
 ----
 # Load aliases and functions from dotfiles repository.
