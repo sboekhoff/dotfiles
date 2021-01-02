@@ -19,7 +19,7 @@ My dotfiles.
 # Load aliases and functions from dotfiles repository.
 # Those lines should be added after (`source $ZSH/oh-my-zsh.sh`).
 # (Reason: aliases from `$ZSH/oh-my-zsh.sh` might otherwise override your aliases.)
-source ~/git/github/sboekhoff/dotfiles/config-zshrc/zshrc.sh
+source ~/git/github.com/sboekhoff/dotfiles/config-zshrc/zshrc.sh
 ----
 
 
