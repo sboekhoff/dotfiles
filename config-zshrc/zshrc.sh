@@ -3,7 +3,7 @@
 BASE_GIT=~/git
 BASE_GITLAB=~/git/gitlab.com
 BASE_GITHUB=~/git/github.com
-BASE_GITHUB=~/git/dev.azure.com
+BASE_DEVOPS=~/git/dev.azure.com
 
 # Aliases (folders)
 #===============================================================================
