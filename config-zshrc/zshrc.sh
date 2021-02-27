@@ -3,12 +3,14 @@
 BASE_GIT=~/git
 BASE_GITLAB=~/git/gitlab.com
 BASE_GITHUB=~/git/github.com
+BASE_GITHUB=~/git/dev.azure.com
 
 # Aliases (folders)
 #===============================================================================
 alias      G="cd ${BASE_GIT}"
 alias     GH="cd ${BASE_GITHUB}"
 alias     GL="cd ${BASE_GITLAB}"
+alias     DO="cd ${BASE_DEVOPS}"
 
 # Aliases (Shell)
 #===============================================================================
